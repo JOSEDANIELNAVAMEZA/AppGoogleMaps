@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382335713946",
+    "project_id": "mapss-38d80",
+    "storage_bucket": "mapss-38d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382335713946:android:eb59e67a85595865c21523",
+        "android_client_info": {
+          "package_name": "mx.ipn.cic.geo.googlemapsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382335713946-8jc2hjogggtbrkf35vd315unp95ovofn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SL4_W9Mty4fcC1V_PQzmoEsqEEXUbuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382335713946-8jc2hjogggtbrkf35vd315unp95ovofn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
